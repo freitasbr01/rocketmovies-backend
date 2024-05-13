@@ -23,10 +23,9 @@ Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-- **HTML**
-- **CSS**
 - **JavaScript**
 - **NodeJS**
+- **Express**
 
 ---
 
