@@ -1,7 +1,7 @@
-## Rocket Movies
+## RocketMovies
 
 <h3 align="center"> 
-	Rocket Movies
+	RocketMovies
 </h3>
 
 <p align="center">
@@ -26,6 +26,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **JavaScript**
 - **NodeJS**
 - **Express**
+- **SQLite**
+- **Knex**
 - **Jest**
 
 ---
