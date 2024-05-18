@@ -26,6 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **JavaScript**
 - **NodeJS**
 - **Express**
+- **Jest**
 
 ---
 
