@@ -1,5 +1,3 @@
-// Vai fazer a lógica para quando alguém tentar logar na sessão.
-
 const knex = require("../database/knex");
 const { compare } = require("bcryptjs");
 const AppError = require("../utils/AppError");

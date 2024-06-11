@@ -1,8 +1,7 @@
-// O OBJETIVO DESSE ARQUIVO É REUNIR TODAS AS ROTAS DA APLICAÇÃO
 
-const { Router } = require("express"); // Importando funcionalidade de rotas do express.
+const { Router } = require("express"); 
 
-const usersRoutes = require("./users.routes"); // Importando rotas de usuário.
+const usersRoutes = require("./users.routes"); 
 const notesRoutes = require("./notes.routes");
 const tagsRouter = require("./tags.routes");
 const sessionsRouter = require("./sessions.routes");

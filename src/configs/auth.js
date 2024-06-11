@@ -6,6 +6,5 @@ module.exports = {
   }
 }
 
-// Ou coloca a variavel de ambiente ou seta o default
 
 

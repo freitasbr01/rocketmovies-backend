@@ -1,5 +1,3 @@
-// TODAS AS ROTAS DE TAGS FICARÃO AQUIA.
-
 const { Router } = require("express");
 const TagsController = require("../controllers/TagsController");
 

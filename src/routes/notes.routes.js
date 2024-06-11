@@ -1,5 +1,3 @@
-// TODAS AS ROTAS DE NOTAS FICARÃO AQUI
-
 const { Router } = require("express");
 const NotesController = require("../controllers/NotesController");
 const ensureAuthenticated = require("../middlewares/ensureAuthenticated");

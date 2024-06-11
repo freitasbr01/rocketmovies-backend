@@ -1,6 +1,4 @@
-// ROTAS DE USUÁRIO PARA CRIAR E ATUALIZAR O USUÁRIO
-
-const { Router } = require("express") // Funcionalidade de rotas;
+const { Router } = require("express") 
 const multer = require("multer");
 const uploadConfig = require("../configs/upload");
 
@@ -9,7 +7,6 @@ const UserAvatarController = require("../controllers/UserAvatarController");
 const ensureAuthenticated = require("../middlewares/ensureAuthenticated");
 
 const usersRoutes = Router();
-// Representa um conjunto de rotas específicas para manipular requisições relacionadas aos usuários. O Router() é um método do Express que cria um novo roteador.
 const upload = multer(uploadConfig.MULTER);
 
 const usersController = new UsersController();

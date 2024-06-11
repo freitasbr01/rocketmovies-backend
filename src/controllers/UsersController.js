@@ -16,7 +16,7 @@ class UsersController {
     await userCreateService.execute({ name, email, password });
     
     return response.status(201).json();
-  }; // Cria um novo usuário na tabela users e no momento da criação verifica se o usuário já está cadastrado.
+  };
 
   async update(request, response) {
     const { name, email, password, old_password } = request.body;
@@ -75,7 +75,7 @@ class UsersController {
     // Cada interrogação vai ser substituida por uma variavel que a gente tá passando nessa ordem.
 
     return response.status(200).json();
-  } // Funcionalida de atualização do usuário.
+  }
 };
 
 module.exports = UsersController;

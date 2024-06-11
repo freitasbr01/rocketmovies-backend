@@ -1,5 +1,3 @@
-// SALVA OU DELETA O ARQUIVO DE UPLOADS_FOLDER
-
 const fs = require("fs");
 const path = require("path");
 const uploadConfig = require("../configs/upload");
@@ -11,7 +9,7 @@ class DiskStorage {
       path.resolve(uploadConfig.UPLOADS_FOLDER, file),
     );
     return file;
-  } // Função de salvar arquivo
+  } 
 
   async deleteFile(file) {
     const filePath = path.resolve(uploadConfig.UPLOADS_FOLDER, file);
@@ -23,7 +21,7 @@ class DiskStorage {
     }
 
     await fs.promises.unlink(filePath);
-  } // Função de deletar arquivo
+  } 
 }
 
 module.exports = DiskStorage;
