@@ -1,8 +1,8 @@
-## RocketMovies
+<h2 align="center">RocketMovies</h2>
 
-<h3 align="center"> 
-	RocketMovies
-</h3>
+<h1 align="center">
+    <img width="600px" alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/freitasbr01/rocketmovies-front/blob/main/src/assets/Rocketmovies.png" />
+</h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Esse projeto apresenta uma aplicação web interativa e intuitiva, projetada para os amantes de filmes. A plataforma permite aos usuários criar uma conta pessoal, através da qual podem acessar e personalizar sua própria lista de filmes favoritos. Oferece também a funcionalidade de avaliar cada filme que o usuário assistiu, proporcionando uma experiência de usuário rica e personalizada. Esta aplicação é perfeita para qualquer pessoa que queira manter um registro de todos os filmes que assistiu e compartilhar suas opiniões sobre eles.”
+Esse projeto apresenta uma aplicação web interativa e intuitiva, projetada para os amantes de filmes. A plataforma permite aos usuários criar uma conta pessoal, através da qual podem acessar e personalizar sua própria lista de filmes favoritos. Oferece também a funcionalidade de avaliar cada filme que o usuário assistiu, proporcionando uma experiência de usuário rica e personalizada. Esta aplicação é perfeita para qualquer pessoa que queira manter um registro de todos os filmes que assistiu e compartilhar suas opiniões sobre eles.
 
 Projeto desenvolvido durante o Curso Explorer da **Rocketseat**.
 
